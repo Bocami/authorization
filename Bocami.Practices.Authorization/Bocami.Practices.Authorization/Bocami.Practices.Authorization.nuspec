@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Authorization</title>
+    <authors>Jonatan Pedersen</authors>
+    <owners>Jonatan Pedersen</owners>
+    <licenseUrl>http://nuget.bocami.com/package/$id$</licenseUrl>
+    <projectUrl>http://nuget.bocami.com/package/$id$</projectUrl>
+    <iconUrl>http://nuget.bocami.com/package/$id$</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Authorization Reference Implementation</description>
+    <copyright>Copyright 2014</copyright>
+  </metadata>
+</package>
