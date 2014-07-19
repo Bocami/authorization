@@ -1,6 +1,6 @@
 ﻿namespace Bocami.Practices.Authorization
 {
-    public interface IAuthorizer<T> 
+    public interface IAuthorizer<in T> 
         where T : class
     {
         void Authorize(T t);
